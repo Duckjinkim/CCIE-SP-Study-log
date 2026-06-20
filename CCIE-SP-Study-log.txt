@@ -10,3 +10,5 @@ Section Times:
 Section Times:
 2026-06-17: 5.00 hours - CCIE SP Lab (Completed)
 Section Times:
+2026-06-20: 0.37 hours - CCIE SP Lab
+Section Times:
